@@ -1,0 +1,28 @@
+
+.zoombox {
+	display: inline-block;
+	position: relative;
+}
+@media (pointer: fine) {
+	.zoombox:hover {
+		cursor: zoom-in;
+	}
+}
+.zoombox img {
+	position: relative;
+	z-index: 1;
+}
+.zoombox .zoomed {
+	display: none;
+	position: absolute;
+	top   : 0%;
+	left  : 0%;
+	width : 100%;
+	height: 100%;
+	z-index: 2;
+}
+
+.zoombox:hover .zoomed,
+.zoombox.hover .zoomed {
+	display: block;
+}
