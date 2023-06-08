@@ -1,9 +1,9 @@
 
 # Zoombox
 
-## Goal
+Show zoom over an image. The enlarged image will overlap the thumbail and the motion of the cursor or the finger will move the focus point of the enlarged image.
 
-Show zoom over an image. 
+Zerodependecy and Lightweight library to make zoom over an image. **Only 1888 JS bytes**.
 
 ## How to use it
 
