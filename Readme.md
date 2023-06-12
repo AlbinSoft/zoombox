@@ -1,9 +1,9 @@
 
 # Zoombox
 
-Show zoom over an image. The enlarged image will overlap the thumbail and the motion of the cursor or the finger will move the focus point of the enlarged image.
+Zero-dependecy and Lightweight library to make zoom over an image. **Only 1888 JS bytes**.
 
-Zerodependecy and Lightweight library to make zoom over an image. **Only 1888 JS bytes**.
+Show zoom over an image. The enlarged image will overlap the thumbail and the motion of the cursor or the finger will move the focus point of the enlarged image.
 
 ## How to use it
 
@@ -15,4 +15,4 @@ Wrap the `img` tag to the thumbnail image with an `a` tag pointing the enlarged 
 
 ## Sample
 
-Look at [CodePen](https://codepen.io/albinvlc/pen/XWyJbez)
+Look at [CodePen](https://codepen.io/albinsoft/pen/XWyJbez)
